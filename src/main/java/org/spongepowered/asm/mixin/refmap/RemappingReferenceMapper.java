@@ -55,7 +55,7 @@ import com.google.common.io.LineProcessor;
  * and converts them on-the-fly using srg-to-mcp mappings. This allows refMaps
  * to be normalised to the current MCP environment.</p>
  * 
- * <p>Note that this class takes a naïve approach to remapping on the basis that
+ * <p>Note that this class takes a naive approach to remapping on the basis that
  * searge names are unique and can thus be remapped with a straightforward dumb
  * string replacement. Whilst the input environment and mappings are
  * customisable via the appropriate environment vars, this fact should be taken
