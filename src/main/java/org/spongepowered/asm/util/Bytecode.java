@@ -1241,7 +1241,7 @@ public final class Bytecode {
     }
 
     /**
-     * Perform a naïve merge of ClassNode members onto a target ClassNode 
+     * Perform a naive merge of ClassNode members onto a target ClassNode 
      * 
      * @param source Source ClassNode to merge from
      * @param dest Destination ClassNode to merge to
